@@ -1,7 +1,7 @@
 # ![https://github.com/Alberto-mt](https://www.canva.com/design/DAE_RUXCGzw/view) Hola, mi nombre es Alberto Montealegre 👋
 ### Desarrollo Web | Desarrollo de Software
 
-![https://github.com/Alberto-mt](https://www.canva.com/design/DAFfYAzZ1Ws/view)
+![https://github.com/Alberto-mt](https://www.canva.com/design/DAFfYAzZ1Ws/3Su2hNzLumbzbqv9bTzLQw/watch?utm_content=DAFfYAzZ1Ws&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 
 <!--
 **Alberto-mt/Alberto-mt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
