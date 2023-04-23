@@ -4,15 +4,15 @@
 ![https://github.com/Alberto-mt](https://github.com/Alberto-mt/assets/blob/main/img/code.png)
 
 ## Tecnologías:
-[![HTML5](https://img.shields.io/badge/HTML5-F64A1D?style=for-the-badge&logo=HTML5&logoColor=white&labelColor=101010)]()
-[![CSS3](https://img.shields.io/badge/CSS3-196FB4?style=for-the-badge&logo=CSS3&logoColor=white&labelColor=101010)]()
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
-[![Node.JS](https://img.shields.io/badge/Node.JS-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=101010)]()
-[![Php](https://img.shields.io/badge/Php-787CB5?style=for-the-badge&logo=php&logoColor=white&labelColor=101010)]()
-[![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
-[![C](https://img.shields.io/badge/LENGUAJE_C-blue?style=for-the-badge&logo=C&logoColor=white&labelColor=101010)]()
-[![Java](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=oracle&logoColor=white&labelColor=101010)]()
-[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
+[![HTML5](https://img.shields.io/badge/HTML5-F64A1D?style=for-the-badge&logo=HTML5&logoColor=white&labelColor=101010)](https://github.com/Alberto-mt/HTML5_CSS3)
+[![CSS3](https://img.shields.io/badge/CSS3-196FB4?style=for-the-badge&logo=CSS3&logoColor=white&labelColor=101010)](https://github.com/Alberto-mt/HTML5_CSS3)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)](JavaScript_JQuery)
+[![Node.JS](https://img.shields.io/badge/Node.JS-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=101010)](https://github.com/Alberto-mt/Alberto-mt)
+[![Php](https://img.shields.io/badge/Php-787CB5?style=for-the-badge&logo=php&logoColor=white&labelColor=101010)](https://github.com/Alberto-mt/Alberto-mt)
+[![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)](https://github.com/Alberto-mt/Alberto-mt)
+[![C](https://img.shields.io/badge/LENGUAJE_C-blue?style=for-the-badge&logo=C&logoColor=white&labelColor=101010)](https://github.com/Alberto-mt/C)
+[![Java](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=oracle&logoColor=white&labelColor=101010)](https://github.com/Alberto-mt/Java)
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)](https://github.com/Alberto-mt/Java)
 
 Y alguna más...
 
