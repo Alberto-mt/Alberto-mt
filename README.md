@@ -11,7 +11,7 @@
 [![Php](https://img.shields.io/badge/Php-787CB5?style=for-the-badge&logo=php&logoColor=white&labelColor=101010)]()
 [![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
 [![C](https://img.shields.io/badge/LENGUAJE_C-blue?style=for-the-badge&logo=C&logoColor=white&labelColor=101010)]()
-[![Java](https://img.shields.io/badge/Java-red?style=for-the-badge&label=JDK&logoColor=white&labelColor=101010)]()
+[![Java](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=oracle&logoColor=white&labelColor=101010)]()
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
 
 Y alguna más...
