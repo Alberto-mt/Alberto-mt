@@ -13,7 +13,7 @@
 [![C](https://img.shields.io/badge/LENGUAJE_C-blue?style=for-the-badge&logo=C&logoColor=white&labelColor=101010)](https://github.com/Alberto-mt/C)
 [![Java](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=oracle&logoColor=white&labelColor=101010)](https://github.com/Alberto-mt/Java)
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)](https://github.com/Alberto-mt/Java)
-[![AWS](https://img.shields.io/badge/AWS-ff9900?style=for-the-badge&logo=amazon&logoColor=white&labelColor=101010)](https://github.com/Alberto-mt/AWS)
+[![AWS](https://img.shields.io/badge/AWS_Developer-ff9900?style=for-the-badge&logo=amazon&logoColor=white&labelColor=101010)](https://github.com/Alberto-mt/AWS)
 
 Y alguna más...
 
