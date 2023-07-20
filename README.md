@@ -1,7 +1,7 @@
 # ![https://github.com/Alberto-mt](https://github.com/Alberto-mt/assets/blob/main/img/profile.png) Hola, mi nombre es Alberto Montealegre 👋
 ### Desarrollo Web | Desarrollo de Software
 
-![https://github.com/Alberto-mt](https://github.com/Alberto-mt/assets/blob/main/img/code.png)
+![https://github.com/Alberto-mt](https://github.com/Alberto-mt/assets/blob/main/img/BG_Main.png)
 
 ## Tecnologías:
 [![HTML5](https://img.shields.io/badge/HTML5-F64A1D?style=for-the-badge&logo=HTML5&logoColor=white&labelColor=101010)](https://github.com/Alberto-mt/HTML5_CSS3)
