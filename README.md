@@ -1,9 +1,11 @@
-# ![https://github.com/Alberto-mt](https://github.com/Alberto-mt/assets/blob/main/img/profile.png) Hola, mi nombre es Alberto Montealegre 👋
-### Desarrollo Web | Desarrollo de Software
+# ![https://github.com/Alberto-mt](https://github.com/Alberto-mt/assets/blob/main/img/profile.png) Hi, I’m Alberto Montealegre @Alberto-mt 👋
+👀 **I am interested in coding and technology**
+🌱 **I'm currently learning a lot of things**
+### Web Development | Software Development
 
 ![https://github.com/Alberto-mt](https://github.com/Alberto-mt/assets/blob/main/img/BG_Main.png)
 
-## Tecnologías:
+## Programming languages:
 [![HTML5](https://img.shields.io/badge/HTML5-F64A1D?style=for-the-badge&logo=HTML5&logoColor=white&labelColor=101010)](https://github.com/Alberto-mt/HTML5_CSS3)
 [![CSS3](https://img.shields.io/badge/CSS3-196FB4?style=for-the-badge&logo=CSS3&logoColor=white&labelColor=101010)](https://github.com/Alberto-mt/HTML5_CSS3)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)](https://github.com/Alberto-mt/JavaScript_JQuery)
@@ -15,7 +17,7 @@
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)](https://github.com/Alberto-mt/Java)
 [![AWS](https://img.shields.io/badge/AWS_Developer-ff9900?style=for-the-badge&logo=amazon&logoColor=white&labelColor=101010)](https://github.com/Alberto-mt/AWS)
 
-Y alguna más...
+And a few more...
 
 <!--
 **Alberto-mt/Alberto-mt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
