@@ -16,6 +16,7 @@
 [![Java](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=oracle&logoColor=white&labelColor=101010)](https://github.com/Alberto-mt/Java)
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)](https://github.com/Alberto-mt/Java)
 [![AWS](https://img.shields.io/badge/AWS_Developer-ff9900?style=for-the-badge&logo=amazon&logoColor=white&labelColor=101010)](https://github.com/Alberto-mt/AWS)
+[![Terminal_de_comandos](https://img.shields.io/badge/Terminal_de_comandos-4D4D4D?style=for-the-badge&logo=windowsterminal&logoColor=white&labelColor=101010)](https://github.com/Alberto-mt/Terminal_de_comandos)
 
 And a few more...
 
