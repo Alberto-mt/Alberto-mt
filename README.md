@@ -1,4 +1,4 @@
-# <!-- ![https://github.com/Alberto-mt](https://github.com/Alberto-mt/assets/blob/main/img/profile.png)--> Hi, I’m Alberto Montealegre @Alberto-mt 👋
+# Hi, I’m Alberto Montealegre @Alberto-mt 👋
 👀 **I am interested in coding and technology**
 🌱 **I'm currently learning a lot of things**
 ### Web Development
